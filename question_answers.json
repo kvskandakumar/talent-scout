@@ -1,0 +1,17 @@
+{
+  "email address email address": {
+    "answer": "kvskandakumar@gmail.com",
+    "question": "Email address\nEmail address",
+    "type": "select"
+  },
+  "mobile phone number": {
+    "answer": "7981611434",
+    "question": "Mobile phone number",
+    "type": "text"
+  },
+  "phone country code phone country code": {
+    "answer": "India (+91)",
+    "question": "Phone country code\nPhone country code",
+    "type": "select"
+  }
+}

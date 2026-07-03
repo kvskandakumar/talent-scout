@@ -28,7 +28,7 @@
   "profile_answers": {
     "current_ctc": "1550000",
     "expected_ctc": "1800000",
-    "notice_period": "15",
+    "notice_period": "Immediate Joiner",
     "current_location": "Bengaluru",
     "total_experience": "6"
   },
@@ -45,5 +45,29 @@
     "learn_question_answers": true
   },
   "dry_run": false,
-  "headless": false
+  "headless": false,
+  "glassdoor": {
+    "enabled": false,
+    "login_url": "https://www.glassdoor.co.in/profile/login_input.htm",
+    "search_url_template": "https://www.glassdoor.co.in/Job/jobs.htm?sc.keyword={keyword_query}&locKeyword={location_query}",
+    "keywords": [],
+    "locations": [],
+    "max_applications": 25,
+    "max_application_steps": 8,
+    "posted_within_hours": 72,
+    "only_instant_apply": true,
+    "learn_question_answers": true
+  },
+  "indeed": {
+    "enabled": false,
+    "login_url": "https://secure.indeed.com/auth?hl=en_IN&co=IN",
+    "search_url_template": "https://in.indeed.com/jobs?q={keyword_query}&l={location_query}&fromage={posted_within_days}",
+    "keywords": [],
+    "locations": [],
+    "max_applications": 25,
+    "max_application_steps": 8,
+    "posted_within_hours": 72,
+    "only_instant_apply": true,
+    "learn_question_answers": true
+  }
 }
