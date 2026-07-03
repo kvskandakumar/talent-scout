@@ -1,0 +1,49 @@
+{
+  "keywords": [
+    "React Developer",
+    "React.js Developer",
+    "Frontend Developer",
+    "Frontend Engineer",
+    "Backend Developer",
+    "Backend Engineer",
+    "React TypeScript Developer",
+    "Software Engineer Frontend",
+    "SDE 2 Frontend",
+    "Frontend Software Engineer",
+    "UI Engineer",
+    "JavaScript Developer",
+    "TypeScript Developer",
+    "React Engineer",
+    "Web Developer React",
+    "Software Development Engineer II",
+    "SDE 2",
+    "Frontend Lead"
+  ],
+  "locations": ["Bengaluru", "remote"],
+  "posted_within_hours": 48,
+  "max_applications": 50,
+  "max_application_steps": 15,
+  "easy_apply_only": true,
+  "learn_question_answers": true,
+  "profile_answers": {
+    "current_ctc": "1550000",
+    "expected_ctc": "1800000",
+    "notice_period": "15",
+    "current_location": "Bengaluru",
+    "total_experience": "6"
+  },
+  "naukri": {
+    "enabled": true,
+    "login_url": "https://www.naukri.com/nlogin/login",
+    "search_url_template": "https://www.naukri.com/jobs-in-{location_slug}?k={keyword_query}&l={location_query}",
+    "keywords": [],
+    "locations": [],
+    "max_applications": 25,
+    "max_application_steps": 8,
+    "posted_within_hours": 72,
+    "only_instant_apply": true,
+    "learn_question_answers": true
+  },
+  "dry_run": false,
+  "headless": false
+}
