@@ -1,4 +1,4 @@
-from job_board_apply import run_job_board
+from shared_job_board_apply import run_job_board
 
 SITE = {
     "key": "glassdoor",
