@@ -1,0 +1,13 @@
+{
+  "name": "naukri-ninja-automation",
+  "version": "0.1.0",
+  "description": "Wrapper script for the naukri-ninja npm package to login and apply jobs.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "apply": "node naukri_ninja_apply.js"
+  },
+  "dependencies": {
+    "naukri-ninja": "^2.12.33"
+  }
+}

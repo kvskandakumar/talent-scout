@@ -13,6 +13,9 @@
     "UI Engineer",
     "JavaScript Developer",
     "TypeScript Developer",
+    "Data Engineer",
+    "GCP Data Engineer",
+    "GCP Engineer",
     "React Engineer",
     "Web Developer React",
     "Software Development Engineer II",
@@ -28,7 +31,7 @@
   "profile_answers": {
     "current_ctc": "1550000",
     "expected_ctc": "1800000",
-    "notice_period": "Immediate Joiner",
+    "notice_period": "0",
     "current_location": "Bengaluru",
     "total_experience": "6"
   },
@@ -47,7 +50,7 @@
   "dry_run": false,
   "headless": false,
   "glassdoor": {
-    "enabled": false,
+    "enabled": true,
     "login_url": "https://www.glassdoor.co.in/profile/login_input.htm",
     "search_url_template": "https://www.glassdoor.co.in/Job/jobs.htm?sc.keyword={keyword_query}&locKeyword={location_query}",
     "keywords": [],

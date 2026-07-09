@@ -1,0 +1,689 @@
+{
+  "are you authorized to work in india?": {
+    "answer": "Yes",
+    "question": "Are you authorized to work in India?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "are you comfortable building responsive ui?": {
+    "answer": "Yes",
+    "question": "Are you comfortable building responsive UI?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "are you comfortable with angular?": {
+    "answer": "No",
+    "question": "Are you comfortable with Angular?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "are you comfortable with hybrid work?": {
+    "answer": "Yes",
+    "question": "Are you comfortable with hybrid work?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "are you comfortable with react?": {
+    "answer": "Yes",
+    "question": "Are you comfortable with React?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "are you comfortable with typescript?": {
+    "answer": "Yes",
+    "question": "Are you comfortable with TypeScript?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "are you comfortable with vue?": {
+    "answer": "No",
+    "question": "Are you comfortable with Vue?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "are you comfortable working from office?": {
+    "answer": "Yes",
+    "question": "Are you comfortable working from office?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "are you comfortable working onsite?": {
+    "answer": "Yes",
+    "question": "Are you comfortable working onsite?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "are you comfortable working remotely?": {
+    "answer": "Yes",
+    "question": "Are you comfortable working remotely?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "are you currently employed?": {
+    "answer": "Yes",
+    "question": "Are you currently employed?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "are you eligible to work in india?": {
+    "answer": "Yes",
+    "question": "Are you eligible to work in India?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "are you open to relocate?": {
+    "answer": "Yes",
+    "question": "Are you open to relocate?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "are you serving any bond or service agreement?": {
+    "answer": "No",
+    "question": "Are you serving any bond or service agreement?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "are you subject to a non-compete agreement?": {
+    "answer": "No",
+    "question": "Are you subject to a non-compete agreement?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "are you willing to relocate?": {
+    "answer": "Yes",
+    "question": "Are you willing to relocate?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "are you willing to undergo a background check?": {
+    "answer": "Yes",
+    "question": "Are you willing to undergo a background check?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "are you willing to work remotely?": {
+    "answer": "Yes",
+    "question": "Are you willing to work remotely?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "available to start": {
+    "answer": "Immediate Joiner",
+    "question": "Available to start",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "backend tech stack": {
+    "answer": "Node.js, Express.js, REST APIs",
+    "question": "Backend tech stack",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "backend technologies": {
+    "answer": "Node.js, Express.js, REST APIs",
+    "question": "Backend technologies",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "can you pass a background check?": {
+    "answer": "Yes",
+    "question": "Can you pass a background check?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "city": {
+    "answer": "Bengaluru",
+    "question": "City",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "country code": {
+    "answer": "India (+91)",
+    "question": "Country code",
+    "source": "seeded_expected_questions",
+    "type": "select"
+  },
+  "current annual salary": {
+    "answer": "1550000",
+    "question": "Current annual salary",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "current city": {
+    "answer": "Bengaluru",
+    "question": "Current city",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "current compensation": {
+    "answer": "1550000",
+    "question": "Current compensation",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "current ctc": {
+    "answer": "1550000",
+    "question": "Current CTC",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "current location": {
+    "answer": "Bengaluru",
+    "question": "Current location",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "current salary": {
+    "answer": "1550000",
+    "question": "Current salary",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "desired salary": {
+    "answer": "1800000",
+    "question": "Desired salary",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "disability status": {
+    "answer": "None",
+    "question": "Disability status",
+    "source": "seeded_expected_questions",
+    "type": "select"
+  },
+  "do you have express.js experience?": {
+    "answer": "Yes",
+    "question": "Do you have Express.js experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you have html/css experience?": {
+    "answer": "Yes",
+    "question": "Do you have HTML/CSS experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you have java experience?": {
+    "answer": "No",
+    "question": "Do you have Java experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you have javascript experience?": {
+    "answer": "Yes",
+    "question": "Do you have JavaScript experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you have node.js experience?": {
+    "answer": "Yes",
+    "question": "Do you have Node.js experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you have python experience?": {
+    "answer": "Yes",
+    "question": "Do you have Python experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you have react experience?": {
+    "answer": "Yes",
+    "question": "Do you have React experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you have redux experience?": {
+    "answer": "Yes",
+    "question": "Do you have Redux experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you have rest api experience?": {
+    "answer": "Yes",
+    "question": "Do you have REST API experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you have the right to work in india?": {
+    "answer": "Yes",
+    "question": "Do you have the right to work in India?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "do you have typescript experience?": {
+    "answer": "Yes",
+    "question": "Do you have TypeScript experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you need visa sponsorship?": {
+    "answer": "No",
+    "question": "Do you need visa sponsorship?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "do you require sponsorship?": {
+    "answer": "No",
+    "question": "Do you require sponsorship?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "email": {
+    "answer": "kvskandakumar@gmail.com",
+    "question": "Email",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "email address": {
+    "answer": "kvskandakumar@gmail.com",
+    "question": "Email address",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "email address email address": {
+    "answer": "kvskandakumar@gmail.com",
+    "question": "Email address\nEmail address",
+    "type": "select"
+  },
+  "expected compensation": {
+    "answer": "1800000",
+    "question": "Expected compensation",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "expected ctc": {
+    "answer": "1800000",
+    "question": "Expected CTC",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "expected salary": {
+    "answer": "1800000",
+    "question": "Expected salary",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "first name": {
+    "answer": "Skanda",
+    "question": "First name",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "frontend framework": {
+    "answer": "React.js",
+    "question": "Frontend framework",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "frontend tech stack": {
+    "answer": "React.js, TypeScript, JavaScript, HTML5, CSS3, Redux, responsive UI development",
+    "question": "Frontend tech stack",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "frontend technologies": {
+    "answer": "React.js, TypeScript, JavaScript, HTML5, CSS3, Redux, responsive UI development",
+    "question": "Frontend technologies",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "are you comfortable with aws?": {
+    "answer": "Yes",
+    "question": "Are you comfortable with AWS?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you have aws experience?": {
+    "answer": "Yes",
+    "question": "Do you have AWS experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "how many years of aws experience do you have?": {
+    "answer": "3",
+    "question": "How many years of AWS experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "do you have docker experience?": {
+    "answer": "Yes",
+    "question": "Do you have Docker experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "how many years of docker experience do you have?": {
+    "answer": "3",
+    "question": "How many years of Docker experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "do you have kubernetes experience?": {
+    "answer": "Yes",
+    "question": "Do you have Kubernetes experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "how many years of kubernetes experience do you have?": {
+    "answer": "2",
+    "question": "How many years of Kubernetes experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "do you have database experience?": {
+    "answer": "Yes",
+    "question": "Do you have database experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you have sql experience?": {
+    "answer": "Yes",
+    "question": "Do you have SQL experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "do you have microservices experience?": {
+    "answer": "Yes",
+    "question": "Do you have microservices experience?",
+    "source": "seeded_tech_stack_profile",
+    "type": "radio"
+  },
+  "full stack tech stack": {
+    "answer": "React.js, TypeScript, JavaScript, HTML5, CSS3, Redux, Node.js, Express.js, REST APIs, Docker, AWS",
+    "question": "Full stack tech stack",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "full-stack technologies": {
+    "answer": "React.js, TypeScript, JavaScript, HTML5, CSS3, Redux, Node.js, Express.js, REST APIs, Docker, AWS",
+    "question": "Full-stack technologies",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "full stack technologies": {
+    "answer": "React.js, TypeScript, JavaScript, HTML5, CSS3, Redux, Node.js, Express.js, REST APIs, Docker, AWS",
+    "question": "Full stack technologies",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "full stack developer skills": {
+    "answer": "React.js, TypeScript, JavaScript, HTML5, CSS3, Redux, Node.js, Express.js, REST APIs, Docker, AWS",
+    "question": "Full stack developer skills",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "full name": {
+    "answer": "Kalimisetty Venkata Skanda Kumar",
+    "question": "Full name",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "gender": {
+    "answer": "Prefer not to say",
+    "question": "Gender",
+    "source": "seeded_expected_questions",
+    "type": "select"
+  },
+  "have you previously worked for this company?": {
+    "answer": "No",
+    "question": "Have you previously worked for this company?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "how many years of css experience do you have?": {
+    "answer": "6",
+    "question": "How many years of CSS experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "how many years of express.js experience do you have?": {
+    "answer": "3",
+    "question": "How many years of Express.js experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "how many years of html experience do you have?": {
+    "answer": "6",
+    "question": "How many years of HTML experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "how many years of javascript experience do you have?": {
+    "answer": "6",
+    "question": "How many years of JavaScript experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "how many years of node.js experience do you have?": {
+    "answer": "3",
+    "question": "How many years of Node.js experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "how many years of react experience do you have?": {
+    "answer": "6",
+    "question": "How many years of React experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "how many years of react.js experience do you have?": {
+    "answer": "6",
+    "question": "How many years of React.js experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "how many years of redux experience do you have?": {
+    "answer": "5",
+    "question": "How many years of Redux experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "how many years of rest api experience do you have?": {
+    "answer": "5",
+    "question": "How many years of REST API experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "how many years of typescript experience do you have?": {
+    "answer": "5",
+    "question": "How many years of TypeScript experience do you have?",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "i agree to the terms and conditions": {
+    "answer": "true",
+    "question": "I agree to the terms and conditions",
+    "source": "seeded_expected_questions",
+    "type": "checkbox"
+  },
+  "i certify that the information provided is accurate": {
+    "answer": "true",
+    "question": "I certify that the information provided is accurate",
+    "source": "seeded_expected_questions",
+    "type": "checkbox"
+  },
+  "i consent to the privacy policy": {
+    "answer": "true",
+    "question": "I consent to the privacy policy",
+    "source": "seeded_expected_questions",
+    "type": "checkbox"
+  },
+  "javascript framework": {
+    "answer": "React.js",
+    "question": "JavaScript framework",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "key skills": {
+    "answer": "React.js, TypeScript, JavaScript, HTML5, CSS3, Redux, REST APIs, Git",
+    "question": "Key skills",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "last name": {
+    "answer": "Kumar",
+    "question": "Last name",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "legal name": {
+    "answer": "Skanda Kumar",
+    "question": "Legal name",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "mobile number": {
+    "answer": "7981611434",
+    "question": "Mobile number",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "mobile phone number": {
+    "answer": "7981611434",
+    "question": "Mobile phone number",
+    "type": "text"
+  },
+  "notice period": {
+    "answer": "Immediate Joiner",
+    "question": "Notice period",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "overall experience": {
+    "answer": "6",
+    "question": "Overall experience",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "phone": {
+    "answer": "7981611434",
+    "question": "Phone",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "phone country code": {
+    "answer": "India (+91)",
+    "question": "Phone country code",
+    "source": "seeded_expected_questions",
+    "type": "select"
+  },
+  "phone country code phone country code": {
+    "answer": "India (+91)",
+    "question": "Phone country code\nPhone country code",
+    "type": "select"
+  },
+  "phone number": {
+    "answer": "7981611434",
+    "question": "Phone number",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "present location": {
+    "answer": "Bengaluru",
+    "question": "Present location",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "primary skills": {
+    "answer": "React.js, TypeScript, JavaScript, HTML5, CSS3, Redux, REST APIs, Git",
+    "question": "Primary skills",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "primary tech stack": {
+    "answer": "React.js, TypeScript, JavaScript, HTML5, CSS3, Redux, REST APIs, Git",
+    "question": "Primary tech stack",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "professional experience": {
+    "answer": "6",
+    "question": "Professional experience",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "race/ethnicity": {
+    "answer": "Prefer not to say",
+    "question": "Race/Ethnicity",
+    "source": "seeded_expected_questions",
+    "type": "select"
+  },
+  "relevant experience": {
+    "answer": "6",
+    "question": "Relevant experience",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "salary expectation": {
+    "answer": "1800000",
+    "question": "Salary expectation",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "serving notice period": {
+    "answer": "Immediate Joiner",
+    "question": "Serving notice period",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "technical skills": {
+    "answer": "React.js, TypeScript, JavaScript, HTML5, CSS3, Redux, REST APIs, Git",
+    "question": "Technical skills",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "technology stack": {
+    "answer": "React.js, TypeScript, JavaScript, HTML5, CSS3, Redux, REST APIs, Git",
+    "question": "Technology stack",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "tools and technologies": {
+    "answer": "React.js, TypeScript, JavaScript, HTML5, CSS3, Redux, REST APIs, Git",
+    "question": "Tools and technologies",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "total experience": {
+    "answer": "6",
+    "question": "Total experience",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "total years of experience": {
+    "answer": "6",
+    "question": "Total years of experience",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "ui framework": {
+    "answer": "React.js",
+    "question": "UI framework",
+    "source": "seeded_tech_stack_profile",
+    "type": "text"
+  },
+  "veteran status": {
+    "answer": "Prefer not to say",
+    "question": "Veteran status",
+    "source": "seeded_expected_questions",
+    "type": "select"
+  },
+  "when can you start?": {
+    "answer": "Immediate Joiner",
+    "question": "When can you start?",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  },
+  "will you now or in the future require sponsorship?": {
+    "answer": "No",
+    "question": "Will you now or in the future require sponsorship?",
+    "source": "seeded_expected_questions",
+    "type": "radio"
+  },
+  "years of experience": {
+    "answer": "6",
+    "question": "Years of experience",
+    "source": "seeded_expected_questions",
+    "type": "text"
+  }
+}
